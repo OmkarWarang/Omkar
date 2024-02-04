@@ -1,5 +1,3 @@
-# Omkar_Ravindra_Warang_Resume
-
 ## Education
 BCA
 DSA (Diploma in Software Application)
