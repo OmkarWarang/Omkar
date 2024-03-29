@@ -45,7 +45,7 @@
       - ZOHO
       - MSSQL
 
-## Additional_info:
+## Additional_Info:
   - Strong problem-solving skills with a keen attention to detail.
   - Excellent communication and interpersonal abilities.
   - Focused and dedicated.
