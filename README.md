@@ -1,14 +1,14 @@
-# Omkar Resume
+# Resume
 ## Personal_Info:
-  - Name: "Omkar Ravindra Warang"
-  - Linkedin: "https://www.linkedin.com/in/omkarwarang/"
-  - Github: "https://omkarwarang.github.io/Omkar/"
+  - Name    : Omkar Ravindra Warang
+  - Linkedin: https://www.linkedin.com/in/omkarwarang/
+  - Github  : https://omkarwarang.github.io/Omkar/
 
 ## Experience:
-  - Desiganation : "Software Engineer"
-  - Company      : "63 moons technologies limited."
-  - Location     : "Mumbai, Maharashtra"
-  - Dates        : "March 2021 - Present"
+  - Desiganation : Software Engineer
+  - Company      : 63 moons technologies limited.
+  - Location     : Mumbai, Maharashtra
+  - Dates        : March 2021 - Present
   - Description  :
       - Developed and maintained Database in MSSQL server.
       - Create Impactful solution.
