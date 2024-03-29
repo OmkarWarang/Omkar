@@ -25,17 +25,17 @@ I am a Bachelor of Computer Applications graduate from Yashwantrao Chavan Mahara
   - Dates      : Graduated May 2020
 
 ## Skills:
-  ## Programming Languages
+  - Programming Languages
       - C
       - C++
       - HTML
       - CSS
       - JavaScript
 
-  ## Databases
+  - Databases
       - MSSQL
       
-  ## Tools & Methodologies
+  - Tools & Methodologies
       - Agile/Scrum
       - Git
       - SourceTree
