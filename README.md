@@ -16,7 +16,7 @@
       - Implemented best practices for code review and version control, ensuring code quality and reliability.
 
 ## Summary:
-I am a Bachelor of Computer Applications graduate from Yashwantrao Chavan Maharashtra Open University, with a strong foundation in programming languages such as C, C++, HTML, CSS, and JavaScript. Additionally, I have experience with MSSQL databases and proficiency in utilizing various tools and methodologies including Agile/Scrum, Git, SourceTree, StarTeam, JIRA, ZENDESK, and ZOHO. I possess strong problem-solving skills with a keen attention to detail, coupled with excellent communication and interpersonal abilities. I am focused and dedicated, adept at managing tasks effectively to ensure successful project outcomes.
+      Dynamic BCA graduate from Yashwantrao Chavan Maharashtra Open University, proficient in C, C++, HTML, CSS, and JavaScript, backed by hands-on experience in MSSQL databases. Skilled in Agile/Scrum methodologies, Git, JIRA, and more, I bring a meticulous eye for detail and strong problem-solving prowess to every project. With excellent communication and interpersonal skills, I thrive in collaborative environments, ensuring successful outcomes through effective task management and dedication.
 
 ## Education:
   - Degree     : Bachelor of Computer Applications.
@@ -45,7 +45,7 @@ I am a Bachelor of Computer Applications graduate from Yashwantrao Chavan Mahara
       - ZOHO
       - MSSQL
 
-## additional_info:
+## Additional_info:
   - Strong problem-solving skills with a keen attention to detail.
   - Excellent communication and interpersonal abilities.
   - Focused and dedicated.
