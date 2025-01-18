@@ -24,6 +24,12 @@ BCA graduate from Yashwantrao Chavan Maharashtra Open University, proficient in 
   - Location   : Kudal, Maharashtra.
   - Dates      : Graduated May 2020.
 
+  - Degree     : Master of Computer Applications.
+  - Institution: Sikkim Manipal University.
+  - Location   : Gangtok, Sikkim.
+  - Dates      : Pursuing Degree.
+  - Mode       : Online
+
 ## Skills:
   - Programming Languages:
       - C
