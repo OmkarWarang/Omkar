@@ -28,7 +28,7 @@ BCA graduate from Yashwantrao Chavan Maharashtra Open University, proficient in 
   - Institution: Sikkim Manipal University.
   - Location   : Gangtok, Sikkim.
   - Dates      : Pursuing Degree.
-  - Mode       : Online
+  - Mode       : Online.
 
 ## Skills:
   - Programming Languages:
