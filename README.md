@@ -8,7 +8,17 @@
   - Desiganation : Software Engineer.
   - Company      : 63 moons technologies limited.
   - Location     : Mumbai, Maharashtra.
-  - Dates        : March 2021 - Present.
+  - Dates        : 15 MAR 2021 - 20 JAN 2025.
+  - Description  :
+      - Developed and maintained Database in MSSQL server.
+      - Create Impactful solution.
+      - Optimised SQL Queries.
+      - Implemented best practices for code review and version control, ensuring code quality and reliability.
+
+  - Desiganation : Software Engineer.
+  - Company      : synapsewave innovations private limited.
+  - Location     : Mumbai, Maharashtra.
+  - Dates        : 21 JAN 2025 - Present.
   - Description  :
       - Developed and maintained Database in MSSQL server.
       - Create Impactful solution.
@@ -32,15 +42,15 @@ BCA graduate from Yashwantrao Chavan Maharashtra Open University, proficient in 
 
 ## Skills:
   - Programming Languages:
-      - C
-      - C++
-      - HTML
-      - CSS
-      - JavaScript
+      - Basic C
+      - Basic C++
+      - Basic HTML
+      - Basic CSS
+      - Basic JavaScript
 
   - Databases:
-      - MSSQL
-      
+      - Proficient MSSQL
+              
   - Tools & Methodologies:
       - Agile/Scrum
       - Git
